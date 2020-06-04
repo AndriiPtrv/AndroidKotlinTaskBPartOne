@@ -1,0 +1,2 @@
+rootProject.name='AndroidKotlinTaskBPartOne'
+include ':app'
